@@ -1,0 +1,16 @@
+{
+  "main": {
+    "en": {
+      "Home": "Home",
+      "About": "About",
+      "Welcoming": "Welcome to",
+      "Contact": "Contact us"
+    },
+    "ar": {
+      "Home": "الصفحة الرئيسية",
+      "About": "حول",
+      "Welcoming": "أهلا بكم في",
+      "Contact": "اتصل بنا"
+    }
+  }
+}
